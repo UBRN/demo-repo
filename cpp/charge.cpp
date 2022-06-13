@@ -23,4 +23,5 @@ int main() {
     
     //call the getCharge() method on ptr
     ptr->getCharge();
+    //or p.getCharge();
 } 
