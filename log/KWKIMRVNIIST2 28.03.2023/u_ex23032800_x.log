@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2023-03-27 21:08:24
-#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken X-Forwarded-For
-2023-03-27 21:08:21 W3SVC2 KWKIMRVNIIST2 10.194.71.33 POST /dns-query - 443 - 10.194.71.254 HTTP/1.1 Go-http-client/1.1 - 213.161.149.194 200 0 0 104 194 4000 -
-2023-03-27 21:08:23 W3SVC2 KWKIMRVNIIST2 10.194.71.33 GET /resolve dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB 443 - 10.194.71.254 HTTP/1.1 Go-http-client/1.1 - 213.161.149.194 404 0 0 154 191 31 -
-2023-03-27 21:08:25 W3SVC2 KWKIMRVNIIST2 10.194.71.33 GET / dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB 443 - 10.194.71.254 HTTP/1.1 Go-http-client/1.1 - 213.161.149.194 404 0 0 154 184 15 -

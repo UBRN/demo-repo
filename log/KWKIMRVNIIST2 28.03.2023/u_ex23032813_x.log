@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2023-03-28 10:55:31
-#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken X-Forwarded-For
-2023-03-28 10:55:28 W3SVC2 KWKIMRVNIIST2 10.194.71.33 GET /api/parameter application=XKMobile&hash=fa6324c3a8af3c661f55cdcbbd55e9193ed40171fdf837e77f7207317d65a6dc 443 - 10.194.71.254 HTTP/1.1 ISBANK/9+CFNetwork/1402.0.8+Darwin/22.3.0 - mobiletest.isbankkosova.com 200 0 0 324 1007 46 -
-2023-03-28 10:55:28 W3SVC2 KWKIMRVNIIST2 10.194.71.33 POST /api/session - 443 - 10.194.71.254 HTTP/1.1 ISBANK/9+CFNetwork/1402.0.8+Darwin/22.3.0 - mobiletest.isbankkosova.com 200 0 0 1143 1337 113 -
-2023-03-28 10:55:28 W3SVC2 KWKIMRVNIIST2 10.194.71.33 GET /api/resource application=XKMobile&language=tr&hash=e058fd2e81f315e19429e33d99d1848f26fdafc5aa798001ef33980a76788f3c 443 - 10.194.71.254 HTTP/1.1 ISBANK/9+CFNetwork/1402.0.8+Darwin/22.3.0 - mobiletest.isbankkosova.com 200 0 0 324 893 7785 -
